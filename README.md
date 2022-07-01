@@ -28,5 +28,26 @@ The analysis of the election show that:
   - **Diana DeGette**, who received **73.8%** of the vote and **272,892** number of votes.
 
 ## Challenge Overview
+The Elections committee has also given you the following tasks regarding the County data from the local congressional election.
+
+1. Find the voter turnout for each County
+2. Calculate the percentage of votes from each county out of the total count
+3. Determine the County with the highest turnout
 
 ## Challenge Summary
+The analysis of the County data show that:
+- The Counties were:
+  - Araphoe
+  - Denver
+  - Jefferson
+- The County results were:
+  - Araphoe voted 24,801 times for 6.7% of votes.
+  - Denver voted 306,055 times for 82.8% of votes. 
+  - Jefferson voted 38,855 times for 10.5% of votes.
+- The County with the most votes was:
+  - **Denver**, which voted 306,055 times for 82.8% of votes.
+  
+<img width="251" alt="Election_analysis_terminal_output" src="https://user-images.githubusercontent.com/102050273/176811042-5eadc457-7c6e-4654-85dd-9fcbaa4255b5.png">
+
+## Election Audit Summary
+This script could be quickly repurposed for any number of other attributes tied to individual votes. For example, it was used to analyze candidate and county votes - but could be used to analyze demographic data such as ethnicity and/or age given the neccesary input data.
